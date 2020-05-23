@@ -1,3 +1,5 @@
 wasm_exec.js
-.vscode/
+.vscode/*
 *.wasm
+
+!settings.json
